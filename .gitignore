@@ -1,0 +1,35 @@
+# Maven / Java build outputs
+/target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE - NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+nbactions.xml
+
+# IDE - IntelliJ
+/.idea/
+*.iml
+
+# IDE - VS Code
+/.vscode/
+
+# Environment variables and secrets
+.env*
+
+# App config with credentials
+src/main/resources/config/config.properties
+
+# Key / certificate files
+*.pem
+*.key
+*.p12
+*.jks
