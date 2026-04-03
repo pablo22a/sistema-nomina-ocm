@@ -78,5 +78,5 @@
 - Para iniciar sesión como capturista utiliza el usuario **capturista** y la contraseña **capturista123**
 
 ### Capturas
-![Login](assets/login.png)
+![Login](screenshots/login.png)
 
