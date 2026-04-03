@@ -77,3 +77,6 @@
 - Para iniciar sesión como administrador utiliza el usuario **admin** y la contraseña **admin123**
 - Para iniciar sesión como capturista utiliza el usuario **capturista** y la contraseña **capturista123**
 
+### Capturas
+![Login](assets/login.png)
+
