@@ -78,12 +78,20 @@
 - Para iniciar sesión como capturista utiliza el usuario **capturista** y la contraseña **capturista123**
 
 ### Capturas
+#### Vista de login
 ![Vista de login](screenshots/login.png)
+#### Vista de home
 ![Vista de home](screenshots/home.png)
+#### Vista de logs
 ![Vista de logs](screenshots/logs.png)
+#### Vista de asistencia
 ![Vista de asistencia](screenshots/asistencia.png)
+#### Vista de empleados
 ![Vista de empleados](screenshots/empleados.png)
+#### Vista de nomina
 ![Vista de nómina](screenshots/nomina.png)
+#### Vista de prestaciones
 ![Vista de prestaciones](screenshots/prestaciones.png)
+#### Vista de administrador
 ![Vista de administrador](screenshots/admin_sistema.png)
 
